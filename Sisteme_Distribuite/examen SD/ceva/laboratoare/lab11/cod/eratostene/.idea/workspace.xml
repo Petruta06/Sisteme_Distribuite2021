@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4ce4627-91bd-4be9-8259-09b82fca8d76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eratostene" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eratostene" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="eratostene" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uLhwUjIVl9Pt1GgIjfeMgWAXPl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../subiecte/S1/subiect1" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.eratostene [assemble]">
+    <configuration name="eratostene [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="assemble" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="eratostene [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.eratostene [clean]" />
+        <item itemvalue="Gradle.eratostene [assemble]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ce4627-91bd-4be9-8259-09b82fca8d76" name="Default Changelist" comment="" />
+      <created>1624451014372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624451014372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="276" key="FileChooserDialogImpl" timestamp="1624454382591">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="658" y="276" key="FileChooserDialogImpl/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624454382591" />
+    <state width="1862" height="72" key="GridCell.Tab.0.bottom" timestamp="1624454384311">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="72" key="GridCell.Tab.0.bottom/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624454384311" />
+    <state width="1862" height="72" key="GridCell.Tab.0.center" timestamp="1624454384311">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="72" key="GridCell.Tab.0.center/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624454384311" />
+    <state width="1862" height="72" key="GridCell.Tab.0.left" timestamp="1624454384310">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="72" key="GridCell.Tab.0.left/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624454384310" />
+    <state width="1862" height="72" key="GridCell.Tab.0.right" timestamp="1624454384311">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="72" key="GridCell.Tab.0.right/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624454384311" />
+  </component>
+</project>

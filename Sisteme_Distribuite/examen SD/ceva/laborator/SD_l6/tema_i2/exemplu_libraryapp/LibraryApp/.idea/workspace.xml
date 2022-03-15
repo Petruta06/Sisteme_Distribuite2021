@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XdGO16bIDTKiOUFeGXdY0FkrhX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="" />
+      <created>1581368521262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581368521262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="658" y="276" key="FileChooserDialogImpl" timestamp="1617733032689">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="658" y="276" key="FileChooserDialogImpl/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617733032689" />
+    <state width="1862" height="241" key="GridCell.Tab.0.bottom" timestamp="1617805314198">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617805314198" />
+    <state width="1862" height="241" key="GridCell.Tab.0.center" timestamp="1617805314198">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="241" key="GridCell.Tab.0.center/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617805314198" />
+    <state width="1862" height="241" key="GridCell.Tab.0.left" timestamp="1617805314197">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="241" key="GridCell.Tab.0.left/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617805314197" />
+    <state width="1862" height="241" key="GridCell.Tab.0.right" timestamp="1617805314198">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1862" height="241" key="GridCell.Tab.0.right/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617805314198" />
+    <state x="493" y="176" width="930" height="686" key="Maven.ArtifactSearchDialog" timestamp="1617554560293">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="493" y="176" width="930" height="686" key="Maven.ArtifactSearchDialog/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617554560293" />
+    <state x="97" y="100" width="1726" height="837" key="dock-window-1" timestamp="1617554677333">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="97" y="100" width="1726" height="837" key="dock-window-1/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617554677333" />
+    <state x="409" y="166" width="1098" height="706" key="new project wizard" timestamp="1617733040881">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="409" y="166" width="1098" height="706" key="new project wizard/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617733040881" />
+    <state x="562" y="228" width="794" height="678" key="search.everywhere.popup" timestamp="1617714699322">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="562" y="228" width="794" height="678" key="search.everywhere.popup/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1617714699322" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+1. Aplicatii WEB cu implementare in Kotlin si Spring Boot (Laboratorul 3)
+
+Dependinte necesare
+	* spring-boot-starter-parent
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent)
+	
+	(subordonat al project [tag-ul principal])
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.1.9.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+
+	* spring-boot-maven-plugin
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-maven-plugin)
+
+	(subordonat al plugins)
+	<plugin>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-maven-plugin</artifactId>
+	</plugin>
+
+
+	* spring-boot-starter-web
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
+
+	(subordonat al dependencies)
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-web</artifactId>
+	</dependency>
+	<dependency>
+		<groupId>org.jetbrains.kotlin</groupId>
+		<artifactId>kotlin-reflect</artifactId>
+		<version>${kotlin.version}</version>
+	</dependency>
+
+
+	* kotlin-maven-allopen
+		(https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-maven-allopen)
+
+	(subordonat al plugin/kotlin-maven-plugin)
+	<dependencies>
+		<dependency>
+			<groupId>org.jetbrains.kotlin</groupId>
+			<artifactId>kotlin-maven-allopen</artifactId>
+			<version>${kotlin.version}</version>
+		</dependency>
+	</dependencies>
+
+
+	* spring-boot-devtools
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools)
+
+	(subordonat al execution/compile din plugin/kotlin-maven-plugin)
+	<configuration>
+		<compilerPlugins>
+		<plugin>spring</plugin>
+		</compilerPlugins>
+	</configuration>	
+	
+	(subordonat al dependency)
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-devtools</artifactId>
+		<version>${project.parent.version}</version>
+	</dependency>
+
+
+	* org.json.json	
+		(https://mvnrepository.com/artifact/org.json/json)
+
+	(subordonat al dependencies)
+	<dependency>
+		<groupId>org.json</groupId>
+		<artifactId>json</artifactId>
+		<version>20190722</version>
+	</dependency>
+
+
+
+* Instalare server de Tomcat
+	- expus explicit pe portul 8080 si pornit automat de Spring cand se face spring-boot:run
+

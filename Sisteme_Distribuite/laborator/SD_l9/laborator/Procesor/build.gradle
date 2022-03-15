@@ -1,0 +1,23 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.4.32'
+    id 'org.springframework.boot' version '2.2.1.RELEASE'
+    id 'org.jetbrains.kotlin.plugin.spring' version '1.4.32'
+    id 'io.spring.dependency-management' version '1.0.8.RELEASE'
+}
+
+group 'com.sd.laborator'
+version '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+compileKotlin
+        {
+            kotlinOptions.jvmTarget = "1.8"
+        }
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    implementation "org.jetbrains.kotlin:kotlin-reflect"
+    compile group: 'org.springframework.cloud', name: 'spring-cloud-starter-stream-rabbit', version: '3.0.3.RELEASE'
+    compile group: 'org.springframework.amqp', name: 'spring-amqp', version: '2.3.6'
+}

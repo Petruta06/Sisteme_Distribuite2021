@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="527316b5-8bcd-45fd-83ca-46b0c4a64ae4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1akXqWdSL5Zyhv6vfmFgovL4yOE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientRDDKt">
+    <configuration name="ClientRDDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="SparkExample" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.ClientRDDKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSqlExample1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="SparkExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.SparkSqlExample1Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkSqlExample2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="SparkExample" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.SparkSqlExample2Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientRDDKt" />
+      <item itemvalue="Application.SparkSqlExample1Kt" />
+      <item itemvalue="Application.SparkSqlExample2Kt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientRDDKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="527316b5-8bcd-45fd-83ca-46b0c4a64ae4" name="Default Changelist" comment="" />
+      <created>1587280756496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587280756496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624774030597">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="416" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624774030597" />
+    <state x="577" y="306" width="757" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1624774029483">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state x="577" y="306" width="757" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624774029483" />
+    <state width="1852" height="225" key="GridCell.Tab.0.bottom" timestamp="1624794823427">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1852" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624777396628" />
+    <state width="1852" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1624794823427" />
+    <state width="1852" height="225" key="GridCell.Tab.0.center" timestamp="1624794823427">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1852" height="248" key="GridCell.Tab.0.center/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624777396628" />
+    <state width="1852" height="225" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1624794823427" />
+    <state width="1852" height="225" key="GridCell.Tab.0.left" timestamp="1624794823426">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1852" height="248" key="GridCell.Tab.0.left/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624777396627" />
+    <state width="1852" height="225" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1624794823426" />
+    <state width="1852" height="225" key="GridCell.Tab.0.right" timestamp="1624794823427">
+      <screen x="0" y="0" width="1920" height="1034" />
+    </state>
+    <state width="1852" height="248" key="GridCell.Tab.0.right/0.0.1920.1034/1920.0.1920.1080@0.0.1920.1034" timestamp="1624777396628" />
+    <state width="1852" height="225" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1624794823427" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="input.flatMap { item: String -&gt; item.split('/').iterator() }" language="kotlin" />
+        <watch expression="streamingContext.textFileStream(&quot;src/main/resources/data.txt&quot;).toString()" language="kotlin" />
+        <watch expression="result2.toJavaDStream().rdd" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

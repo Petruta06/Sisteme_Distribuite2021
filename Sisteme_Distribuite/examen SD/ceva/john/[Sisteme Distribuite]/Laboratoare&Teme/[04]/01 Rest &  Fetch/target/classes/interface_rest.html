@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.springframework.org/schema/mvc">
+<head>
+    <title>Agenda Telefonica</title>
+    <link rel="icon" href="https://cdn.pixabay.com/photo/2016/06/06/16/39/phone-1439842_1280.png">
+    <style>
+    	body{
+  		    background-color : peachpuff;
+  		text-align : center;
+	    }
+        h1{
+            margin-bottom : 15px;
+        }
+        h3{
+        margin-bottom : 30px;
+        }
+        button{
+            margin-top : 20px;
+            font-size : 15px;
+            margin-bottom : 20px;
+        }
+        form{
+            margin-top:20px;
+        }
+        div{
+            margin-top : 30px;
+            border: 2px solid darkred;
+            border-radius: 25px;
+            width : 60%;
+            margin-left : 20%;
+            opacity : 0.3;
+        }
+        div:hover{
+            opacity : 1;
+        }
+    </style>
+</head>
+<body>
+<h1>Agenda Telefonica</h1>
+<h3>-Acest formular va ofera posibilitatea manipularii unei agende de persoane-</h3>
+<div>
+    <h3>Adaugarea unei persoane</h3>
+    <form>
+        <strong>ID : &nbsp;</strong>
+        <input type="number" name="id_post" />
+    </form>
+    <form>
+        <strong>Nume : &nbsp;</strong>
+        <input type="text" name="lastname_post" />
+    </form>
+    <form>
+        <strong>Prenume : &nbsp;</strong>
+        <input type="text" name="firstname_post" />
+    </form>
+    <form>
+        <strong>Numar de telefon : &nbsp;</strong>
+        <input type="number" name="telephone_post" />
+    </form>
+    <button id="post">Adauga persoana la agenda</button>
+    <h3 id="post_status">HTTP RESPONSE : Not found yet</h3>
+</div>
+
+<div>
+    <h3>Cautarea sau stergerea unei persoane</h3>
+    <form>
+        <strong>Selectati criteriul de cautare : &nbsp;</strong>
+        <select id="criterium" onchange="comboboxSelectCriterium()">
+            <option value="ID">ID</option>
+            <option value="Prenume">Prenume</option>
+            <option value="Nume">Nume</option>
+            <option value="Numar de telefon">Numar de telefon</option>
+        </select>
+    </form>
+    <form>
+        <strong id="get_label">ID : &nbsp;</strong>
+        <input type="text" name="telephone_post" />
+    </form>
+    <form>
+        <strong>Selectati operatia dorita : &nbsp;</strong>
+        <select id="operation" onchange="comboboxSelectOperation()">
+            <option value="Cautare">Cautare</option>
+            <option value="Stergere">Stergere</option>
+        </select>
+    </form>
+    <button id="get_delete">Cauta persoana in agenda</button>
+    <h3 id="get_delete_status">HTTP RESPONSE : Not found yet</h3>
+</div>
+
+<div>
+    <h3>Modificarea unei persoane</h3>
+    <form>
+        <strong>Selectati criteriul de cautare : &nbsp;</strong>
+        <select id="criterium_update" onchange="comboboxSelectUpdate()">
+            <option value="ID">ID</option>
+            <option value="Prenume">Prenume</option>
+            <option value="Nume">Nume</option>
+            <option value="Numar de telefon">Numar de telefon</option>
+        </select>
+    </form>
+    <form>
+        <strong id="get_label_update">ID : &nbsp;</strong>
+        <input type="text" name="telephone_post" />
+    </form>
+    <button id="update_button">Modifica persoana din agenda</button>
+    <h3 id="update_status">HTTP RESPONSE : Not found yet</h3>
+</div>
+<br/><br/><br/>
+<script>
+        var comboboxCriterium = document.getElementById("criterium");
+        var comboboxCriteriumUpdate = document.getElementById("criterium_update");
+        var comboboxOperation = document.getElementById("operation")
+        var label = document.getElementById("get_label");
+        var label_update = document.getElementById("get_label_update");
+        var button = document.getElementById("get_delete");
+        function comboboxSelectCriterium(){
+        	label.innerHTML = comboboxCriterium.value + " : ";
+        }
+        function comboboxSelectOperation(){
+          if(comboboxOperation.value.toLowerCase() == "cautare"){
+          	button.innerHTML = "Cauta persoana in agenda";
+          }
+          else{
+          	button.innerHTML = "Sterge persoana din agenda";
+          }
+        }
+        function comboboxSelectUpdate(){
+        	label_update.innerHTML = comboboxCriteriumUpdate.value + " : ";
+        }
+    </script>
+</body>
+</html>

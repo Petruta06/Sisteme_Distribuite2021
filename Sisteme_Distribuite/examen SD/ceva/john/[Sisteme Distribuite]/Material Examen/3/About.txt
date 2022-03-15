@@ -1,0 +1,33 @@
+3. Servicii generice cu implementare utilizând Kotlin și Spring Boot care vor
+comunica prin RabbitMQ (fără Tkinter / PyQt5) - Laboratorul 5
+
+
+* Instalare server RabbitMQ
+	[instalare server RabbitMQ]
+	- sudo apt install -y rabbitmq-server
+
+	[verificare status RabbitMQ]
+	- sudo systemctl status rabbitmq-server.service
+
+	[pornire server RabbitMQ, daca nu este deja]
+	- sudo systemctl start rabbitmq-server.service
+
+	[activare serviciu RabbitMQ la pornirea sistemului]
+	- sudo systemctl enable rabbitmq-server
+
+	[activare plugin de gestionare]
+	- sudo rabbitmq-plugins enable rabbitmq_management
+
+	[creare si configurare utilizator]
+	- sudo rabbitmqctl add_user student student
+	- sudo rabbitmqctl set_user_tags student administrator
+	- sudo systemctl restart rabbitmq-server.service
+	- sudo rabbitmqctl set_permissions -p / student ".*" ".*" ".*"
+
+* Accesare RabbitMQ
+	[http://localhost:15672/]
+	- nume de utilizator : student/user
+	-parola              : student/user
+
+* Alte configurari
+	(vezi laborator)

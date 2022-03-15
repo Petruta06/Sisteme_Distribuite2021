@@ -1,0 +1,9 @@
+<studenti>
+    <student>
+        <nume>Sasu</nume>
+        <prenume>Gabriel</prenume>
+        <varsta>21</varsta>
+        <media>8.9</media>
+        <specializare>Tehnologia Informatiei</specializare>
+    </student>
+</studenti>

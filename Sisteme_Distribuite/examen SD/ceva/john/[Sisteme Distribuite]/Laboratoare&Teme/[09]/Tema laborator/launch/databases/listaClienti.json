@@ -1,0 +1,38 @@
+[
+  {
+    "identitateClient" : "Vasile Apetrei",
+    "adresaLivrare" : "Falticeni, jud. Suceava",
+    "cantitate" : 10,
+    "produs" : "Vaccin anti-COVID-19"
+  },
+  {
+    "identitateClient" : "Stefan Stratulat",
+    "adresaLivrare" : "Falticeni, jud. Suceava",
+    "cantitate" : 1,
+    "produs" : "Bisturiu"
+  },
+  {
+    "identitateClient" : "Roxana Iftimie",
+    "adresaLivrare" : "Gherla, jud. Cluj",
+    "cantitate" : 5,
+    "produs" : "Masca protectie"
+  },
+  {
+    "identitateClient" : "Vlad Popescu",
+    "adresaLivrare" : "Pascani, jud. Iasi",
+    "cantitate" : 4,
+    "produs" : "Combinezon"
+  },
+  {
+    "identitateClient" : "Andreea Catrina",
+    "adresaLivrare" : "Radaseni, jud. Suceava",
+    "cantitate" : 10,
+    "produs" : "Pastile"
+  },
+  {
+    "identitateClient" : "Nicolae Ceausescu",
+    "adresaLivrare" : "Bucuresti, jud. Ilfov",
+    "cantitate" : 200,
+    "produs" : "Masca protectie"
+  }
+]

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a4fe074-7987-476d-89b1-7ea6b637174e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aCSs4B0OINIwNU6biYVk02Wocx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.HelloMicroservice [package]">
+    <configuration name="HelloMicroserviceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="HelloMicroservice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.HelloMicroserviceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloMicroservice [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal=" clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.HelloMicroserviceKt" />
+      <item itemvalue="Maven.HelloMicroservice [package]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.HelloMicroserviceKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a4fe074-7987-476d-89b1-7ea6b637174e" name="Default Changelist" comment="" />
+      <created>1586238285979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586238285979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1778" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586241255044">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1778" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241255044" />
+    <state x="738" y="278" width="424" height="520" key="FileChooserDialogImpl" timestamp="1586941262871">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="738" y="278" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.1009@0.27.1920.1009" timestamp="1586941262871" />
+    <state width="1874" height="198" key="GridCell.Tab.0.bottom" timestamp="1586941265411">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1874" height="217" key="GridCell.Tab.0.bottom/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241921285" />
+    <state width="1874" height="198" key="GridCell.Tab.0.bottom/0.27.1920.1009@0.27.1920.1009" timestamp="1586941265411" />
+    <state width="1874" height="198" key="GridCell.Tab.0.center" timestamp="1586941265410">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1874" height="217" key="GridCell.Tab.0.center/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241921285" />
+    <state width="1874" height="198" key="GridCell.Tab.0.center/0.27.1920.1009@0.27.1920.1009" timestamp="1586941265410" />
+    <state width="1874" height="198" key="GridCell.Tab.0.left" timestamp="1586941265410">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1874" height="217" key="GridCell.Tab.0.left/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241921285" />
+    <state width="1874" height="198" key="GridCell.Tab.0.left/0.27.1920.1009@0.27.1920.1009" timestamp="1586941265410" />
+    <state width="1874" height="198" key="GridCell.Tab.0.right" timestamp="1586941265411">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1874" height="217" key="GridCell.Tab.0.right/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241921285" />
+    <state width="1874" height="198" key="GridCell.Tab.0.right/0.27.1920.1009@0.27.1920.1009" timestamp="1586941265411" />
+    <state x="1809" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1586239024291">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1809" y="175" width="1022" height="737" key="SettingsEditor/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586239024291" />
+    <state x="474" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1586940370870">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="336" y="203" key="com.intellij.ide.util.TipDialog/0.27.1360.697/1360.0.1920.1080@0.27.1360.697" timestamp="1586238289834" />
+    <state x="1834" y="273" key="com.intellij.ide.util.TipDialog/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586239042279" />
+    <state x="474" y="282" key="com.intellij.ide.util.TipDialog/0.27.1920.1009@0.27.1920.1009" timestamp="1586940370870" />
+    <state x="269" y="255" width="1372" height="599" key="new project wizard" timestamp="1586941264130">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="1629" y="244" width="1372" height="599" key="new project wizard/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586239933535" />
+    <state x="269" y="255" key="new project wizard/0.27.1920.1009@0.27.1920.1009" timestamp="1586941264130" />
+    <state x="1984" y="245" width="672" height="677" key="run.anything.popup" timestamp="1586241627779">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1984" y="245" width="672" height="677" key="run.anything.popup/0.27.1360.697/1360.0.1920.1080@1360.0.1920.1080" timestamp="1586241627779" />
+  </component>
+</project>

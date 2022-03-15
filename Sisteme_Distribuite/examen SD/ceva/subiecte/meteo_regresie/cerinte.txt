@@ -1,0 +1,13 @@
+35.Pornind de la exemplul de proiectare și implementare a unei aplicații
+care primește informații meteo (adică utilizând și serviciile de acolo
+eventual cu modificări) să se realizeze următoarele:
+- un serviciu care citește dintr-un fișier (în ce format dorim) o
+listă de orașe;
+- să se aplice modelul de proiectare de tip filtru în proiectarea și
+implementarea unui serviciu care extrage din fluxul de date informații
+pe baza numelui orașului (utilizând serviciul anterior)
+- să se proiecteze și să se implementeze un serviciu care utilizând
+serviciul de filtrare va aplica o regresie liniara peste datele
+rezultate si apoi se va afisa unghiul dreptei rezultate.
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului.

@@ -1,0 +1,19 @@
+1. Aplicatii WEB cu implementare in Kotlin si Spring Boot (Laboratorul 3)
+
+Dependinte necesare
+	* spring-boot-starter-parent
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-parent)
+
+	* spring-boot-maven-plugin
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-maven-plugin)
+
+	* spring-boot-starter-web
+		(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
+
+	* kotlin-maven-allopen
+		(https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-maven-allopen)
+
+	*	spring-boot-devtools
+(https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-
+devtools)
+ org.json.json ( https://mvnrepository.com/artifact/org.json/json )

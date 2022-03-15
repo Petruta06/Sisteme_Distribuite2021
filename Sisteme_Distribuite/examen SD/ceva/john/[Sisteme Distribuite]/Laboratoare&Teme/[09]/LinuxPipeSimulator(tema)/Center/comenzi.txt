@@ -1,0 +1,1 @@
+ls -l | grep DataFlowSink-1.0-SNAPSHOT.jar | wc - l

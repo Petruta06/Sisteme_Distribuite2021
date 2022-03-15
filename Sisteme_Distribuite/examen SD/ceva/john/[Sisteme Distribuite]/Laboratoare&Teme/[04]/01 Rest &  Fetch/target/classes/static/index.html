@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.springframework.org/schema/mvc">
+
+<head>
+    <title>Agenda Telefonica</title>
+    <link rel="icon" href="https://cdn.pixabay.com/photo/2016/06/06/16/39/phone-1439842_1280.png">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+<h1>Agenda Telefonica</h1>
+<h3>-Acest formular va ofera posibilitatea manipularii unei agende de persoane-</h3>
+<div>
+    <h3>Adaugarea unei persoane</h3>
+    <form id="postData">
+        <strong>ID : &nbsp;</strong>
+        <input id="id" type="number" name="id_post" /><br/><br/>
+        <strong>Nume : &nbsp;</strong>
+        <input id="lastName" type="text" name="lastname_post" /><br/><br/>
+        <strong>Prenume : &nbsp;</strong>
+        <input id="firstName" type="text" name="firstname_post" /><br/><br/>
+        <strong>Numar de telefon : &nbsp;</strong>
+        <input id="telephone" type="text" name="telephone_post" /><br/><br/>
+        <button id="post"> Adauga persoana la agenda</button>
+        <h3 id="post_status">HTTP RESPONSE : Not found yet</h3>
+    </form>
+</div>
+
+<div>
+    <h3>Stergerea unei persoane</h3>
+    <form id="deleteData">
+        <strong id="delete_label">ID : &nbsp;</strong>
+        <input id="delete_input" type="text" name="telephone_post" /><br/><br/>
+    <button id="delete_button">Sterge persoana in agenda</button>
+    <h3 id="delete_status">HTTP RESPONSE : Not found yet</h3>
+    </form>
+</div>
+
+<div>
+    <h3>Modificarea unei persoane</h3>
+    <form id="putData">
+        <strong id="get_label_update">ID : &nbsp;</strong>
+        <input id="put_id" type="text" name="telephone_post" /><br/><br/>
+        <strong>Selectati criteriul de modificare : &nbsp;</strong>
+        <select id="criterium_update" onchange="comboboxSelectUpdate()">
+            <option id="update_id" value="ID">ID</option>
+            <option id="update_fname" value="Prenume">Prenume</option>
+            <option id="update_lname" value="Nume">Nume</option>
+            <option id="update_phone" value="Numar">Numar de telefon</option>
+        </select><br/><br/>
+        <strong id="update_field">ID : &nbsp;</strong>
+        <input id="put_field" type="text" name="telephone_post" /><br/><br/>
+        <button id="update_button">Modifica persoana din agenda</button>
+        <h3 id="update_status">HTTP RESPONSE : Not found yet</h3>
+    </form>
+</div>
+<br/>
+<br/>
+<br/>
+<script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+ejb/CourseEntity.class
+ejb/StudentEntity.class
+ejb/BankAccountBeanImpl.class
+interfaces/BankAccountBeanRemote.class

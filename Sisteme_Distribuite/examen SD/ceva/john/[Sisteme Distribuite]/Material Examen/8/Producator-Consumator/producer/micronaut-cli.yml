@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: org.examen
+---
+testFramework: kotlintest
+sourceLanguage: kotlin

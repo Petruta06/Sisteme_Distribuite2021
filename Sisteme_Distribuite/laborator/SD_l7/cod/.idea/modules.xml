@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AuctioneerMicroservice.iml" filepath="$PROJECT_DIR$/AuctioneerMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuctioneerMicroservices.iml" filepath="$PROJECT_DIR$/AuctioneerMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuctionneerMicroservice.iml" filepath="$PROJECT_DIR$/AuctionneerMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BidderMicroservice.iml" filepath="$PROJECT_DIR$/BidderMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BiddingProcessorMicroservice.iml" filepath="$PROJECT_DIR$/BiddingProcessorMicroservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cod.iml" filepath="$PROJECT_DIR$/cod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsdasdadadasd.iml" filepath="$PROJECT_DIR$/dsdasdadadasd.iml" />
+    </modules>
+  </component>
+</project>

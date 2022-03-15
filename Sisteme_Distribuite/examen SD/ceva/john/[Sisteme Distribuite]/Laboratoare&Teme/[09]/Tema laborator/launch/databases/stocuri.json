@@ -1,0 +1,26 @@
+[
+  {
+    "produs" : "Masca protectie",
+    "cantitate" : 100
+  },
+  {
+    "produs" : "Vaccin anti-COVID-19",
+    "cantitate" : 20
+  },
+  {
+    "produs" : "Combinezon",
+    "cantitate" : 30
+  },
+  {
+    "produs" : "Manusa chirurgicala",
+    "cantitate" : 40
+  },
+  {
+    "produs" : "Pastile",
+    "cantitate" : 1000
+  },
+  {
+    "produs" : "Bisturiu",
+    "cantitate" : 150
+  }
+]

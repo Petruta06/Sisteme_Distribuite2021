@@ -1,0 +1,2 @@
+#!/bin/bash
+java -jar producer-0.1.jar | java -jar consumer-0.1.jar

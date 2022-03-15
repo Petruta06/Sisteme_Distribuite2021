@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed2c58b1-d429-4e4e-99ba-3ce13e48704c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XlpaZmkmpjVjKP6223j6Xg2ZoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (StackAppInterface)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../StudentGUI" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.19140625" />
+    <property name="project.structure.side.proportion" value="0.23095526" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../StudentMicroservice/target" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../StudentMicroservice/target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TeacherStudentGUI">
+    <configuration name="com.sd.laborator.TeacherMicroserviceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="TeacherMicroservice" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.TeacherMicroserviceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MessageManagerMicroservice [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../MessageManagerMicroservice" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../MessageManagerMicroservice/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../MessageManagerMicroservice/pom.xml" goal="compile" />
+      </method>
+    </configuration>
+    <configuration name="StudentMicroservice [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../StudentMicroservice" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../StudentMicroservice/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/../../StudentMicroservice/pom.xml" goal="compile" />
+      </method>
+    </configuration>
+    <configuration name="TeacherMicroservice [package]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="compile" />
+      </method>
+    </configuration>
+    <configuration name="StudentGUI" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TeacherStudentGUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/intellij-workspace/StackAppInterface/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../StudentGUI/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../StudentGUI/src/StudentGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TeacherStudentGUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TeacherStudentGUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/intellij-workspace/StackAppInterface/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../TeacherStudentGUI/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../TeacherStudentGUI/src/TeacherStudentGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Kotlin.com.sd.laborator.TeacherMicroserviceKt" />
+      <item itemvalue="Maven.TeacherMicroservice [package]" />
+      <item itemvalue="Maven.StudentMicroservice [package]" />
+      <item itemvalue="Maven.MessageManagerMicroservice [package]" />
+      <item itemvalue="Python.StudentGUI" />
+      <item itemvalue="Python.TeacherStudentGUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TeacherStudentGUI" />
+        <item itemvalue="Kotlin.com.sd.laborator.TeacherMicroserviceKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2c58b1-d429-4e4e-99ba-3ce13e48704c" name="Default Changelist" comment="" />
+      <created>1581630599044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581630599044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1994" y="115" width="642" height="839" key="#TeacherStudentGUI" timestamp="1588149653718">
+      <screen x="1360" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1994" y="115" width="642" height="839" key="#TeacherStudentGUI/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149653718" />
+    <state x="418" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588154184552">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="418" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1009@0.27.1920.1009" timestamp="1588154184552" />
+    <state x="1778" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149633729" />
+    <state x="635" y="161" width="424" height="520" key="FileChooserDialogImpl" timestamp="1588155510898">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="635" y="161" width="424" height="520" key="FileChooserDialogImpl/0.27.1920.1009@0.27.1920.1009" timestamp="1588155510898" />
+    <state x="1995" y="143" width="424" height="592" key="FileChooserDialogImpl/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149625590" />
+    <state width="864" height="261" key="GridCell.Tab.0.bottom" timestamp="1588165181970">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1870" height="388" key="GridCell.Tab.0.bottom/0.0.1920.1037@0.0.1920.1037" timestamp="1581695769837" />
+    <state width="864" height="261" key="GridCell.Tab.0.bottom/0.27.1920.1009@0.27.1920.1009" timestamp="1588165181970" />
+    <state width="1874" height="182" key="GridCell.Tab.0.bottom/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588150338302" />
+    <state width="864" height="261" key="GridCell.Tab.0.center" timestamp="1588165181970">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1870" height="388" key="GridCell.Tab.0.center/0.0.1920.1037@0.0.1920.1037" timestamp="1581695769834" />
+    <state width="864" height="261" key="GridCell.Tab.0.center/0.27.1920.1009@0.27.1920.1009" timestamp="1588165181970" />
+    <state width="1874" height="182" key="GridCell.Tab.0.center/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588150338302" />
+    <state width="864" height="261" key="GridCell.Tab.0.left" timestamp="1588165181970">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1870" height="388" key="GridCell.Tab.0.left/0.0.1920.1037@0.0.1920.1037" timestamp="1581695769833" />
+    <state width="864" height="261" key="GridCell.Tab.0.left/0.27.1920.1009@0.27.1920.1009" timestamp="1588165181970" />
+    <state width="1874" height="182" key="GridCell.Tab.0.left/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588150338302" />
+    <state width="864" height="261" key="GridCell.Tab.0.right" timestamp="1588165181970">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state width="1870" height="388" key="GridCell.Tab.0.right/0.0.1920.1037@0.0.1920.1037" timestamp="1581695769836" />
+    <state width="864" height="261" key="GridCell.Tab.0.right/0.27.1920.1009@0.27.1920.1009" timestamp="1588165181970" />
+    <state width="1874" height="182" key="GridCell.Tab.0.right/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588150338302" />
+    <state x="540" y="246" width="866" height="609" key="NewModule_or_Project.wizard" timestamp="1588155519522">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="540" y="246" key="NewModule_or_Project.wizard/0.27.1920.1009@0.27.1920.1009" timestamp="1588155519522" />
+    <state x="1900" y="234" width="866" height="609" key="NewModule_or_Project.wizard/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149576198" />
+    <state x="443" y="129" width="1024" height="852" key="SettingsEditor" timestamp="1588155521737">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="443" y="129" width="1024" height="852" key="SettingsEditor/0.27.1920.1009@0.27.1920.1009" timestamp="1588155521737" />
+    <state x="1803" y="109" width="1024" height="852" key="SettingsEditor/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149585898" />
+    <state x="570" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1588166430450">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="570" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1037@0.0.1920.1037" timestamp="1581664007552" />
+    <state x="570" y="365" key="com.intellij.ide.util.TipDialog/0.27.1920.1009@0.27.1920.1009" timestamp="1588166430450" />
+    <state x="538" y="113" width="1372" height="599" key="new project wizard" timestamp="1588166487699">
+      <screen x="0" y="27" width="1920" height="1009" />
+    </state>
+    <state x="538" y="113" width="1372" height="599" key="new project wizard/0.27.1920.1009@0.27.1920.1009" timestamp="1588166487699" />
+    <state x="1624" y="239" width="1372" height="599" key="new project wizard/1360.0.1920.1080/0.27.1360.741@1360.0.1920.1080" timestamp="1588149158552" />
+  </component>
+</project>

@@ -1,0 +1,67 @@
+package com.sd.laborator.model
+
+class Book(private var data: Content) {
+    var id: Int?
+        get()
+    {
+        return data.id
+    }
+    set(value)
+    {
+        data.id = value
+    }
+
+
+    var name: String?
+        get() {
+            return data.name
+        }
+        set(value) {
+            data.name = value
+        }
+
+    var author: String?
+        get() {
+            return data.author
+        }
+        set(value) {
+            data.author = value
+        }
+
+    var publisher: String?
+        get() {
+            return data.publisher
+        }
+        set(value) {
+            data.publisher = value
+        }
+
+    var content: String?
+        get() {
+            return data.text
+        }
+        set(value) {
+            data.text = value
+        }
+
+    fun hasAuthor(author: String): Boolean {
+        return data.author.equals(author)
+    }
+
+    fun hasTitle(title: String): Boolean {
+        return data.name.equals(title)
+    }
+
+    fun publishedBy(publisher: String): Boolean {
+        return data.publisher.equals(publisher)
+    }
+
+    override fun toString(): String {
+        var sir : String = ""
+        sir = sir + "\n Autor: "+ data.author +
+                "\n Titlu: "+ data.name+
+                "\n Publisher: "+ data.publisher
+        return sir
+    }
+
+}

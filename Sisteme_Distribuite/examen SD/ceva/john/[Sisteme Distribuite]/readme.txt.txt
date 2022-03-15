@@ -1,0 +1,2 @@
+* Recomand sa te uiti cel mai mult pe fisierele din folderul "Material Examen", intrucat contine laboratoarele rezolvate inainte de examen, cu maxim interes.
+* Folderul "Laboratoare&Teme" contine laboratoarele si temele facuta in timpul anului, nu cu un interes atat de mare, ca inainte de examen.

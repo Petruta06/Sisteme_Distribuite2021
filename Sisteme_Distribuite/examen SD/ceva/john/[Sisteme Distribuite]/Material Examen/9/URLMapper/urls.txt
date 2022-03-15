@@ -1,0 +1,9 @@
+http://mike.tuiasi.ro/sisdist-l.html
+https://www.geeksforgeeks.org/get-post-requests-using-python
+https://www.facebook.com
+https://www.wikipedia.com
+https://www.github.com
+https://www.youtube.com
+https://www.random.org
+https://www.amazon.com
+https://www.emag.com

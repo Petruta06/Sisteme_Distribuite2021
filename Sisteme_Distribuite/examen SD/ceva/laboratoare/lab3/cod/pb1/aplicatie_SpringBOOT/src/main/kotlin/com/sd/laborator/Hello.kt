@@ -1,0 +1,15 @@
+package com.sd.laborator
+
+import org.springframework.boot.autoconfigure.SpringBootApplication
+import org.springframework.boot.runApplication
+
+@SpringBootApplication
+/*
+clasa care porneste aplicatia
+ */
+open class  Hello
+fun main(args: Array<String>) {
+    runApplication<Hello>(*args)
+
+}
+

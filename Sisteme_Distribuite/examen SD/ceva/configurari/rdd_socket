@@ -1,0 +1,25 @@
+PYTHON
+
+
+  os.environ["PYSPARK_PYTHON"] = '/usr/bin/python3'
+    #spark_conf = SparkConf.setMaster(value="local").setAppName("News")
+    spark_context = SparkContext(master="local", batchSize=0)
+    print("Ma pregatesc sa primesc date!")
+    spark_stream = StreamingContext(spark_context, 2)
+    stream_data = spark_stream.socketTextStream("localhost",1234 )
+    print("trimesc date")
+    stream_data.foreachRDD(lambda rdd:print(rdd.collect()))
+
+
+
+
+KOTLIN
+
+val conf = SparkConf().setMaster("local[2]").setAppName("News")
+    val jssc = JavaStreamingContext(conf, Durations.seconds(1))
+
+    val stream = jssc.socketTextStream("127.0.0.1", 65432)
+    stream.foreachRDD { rdd-> printData(rdd.collect()) }
+
+     jssc.start()
+    jssc.awaitTermination()
